@@ -1,0 +1,33 @@
+SkillBridge AI Build Log
+
+Project: SkillBridge AI
+Hackathon: Build with Gemini XPRIZE
+
+What I built:
+- Streamlit web app
+- Resume upload option
+- Resume text input
+- Job description input
+- Gemini-powered fit review
+- Clean skills review table
+- PDF report download
+
+Human-led work:
+- Project idea
+- User flow
+- Design choices
+- Testing
+- Screenshots
+- Final submission planning
+
+Gemini-powered work:
+- Resume and job description analysis
+- Fit score explanation
+- Skill gap review
+- Resume improvement suggestions
+- 7-day action plan
+
+Safety:
+- API key stored in .env
+- .env protected by .gitignore
+- No private user information should be uploaded
